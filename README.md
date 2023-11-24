@@ -1,4 +1,4 @@
-## The Impossible Patch
+## Stealth Patch
 
 - Perk animation is vanilla.
 - Audio does not double.

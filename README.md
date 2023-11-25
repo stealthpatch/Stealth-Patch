@@ -6,7 +6,6 @@
 ### Changes
 - Better box RNG (Both setup & trades).
 - Better drop RNG.
-- Jug first from the monkeys.
 - Fixed all issues caused by game_mod.
 
 ### How to install
